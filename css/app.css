@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: #fff;
+}
+
+.title-container{
+	height: 20vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.title{
+	font-size: 20px;
+	font-family: roboto;
+    color: #4c4c4c;
+}
+
+.title-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    border: 2px solid #dedede;
+}
+
+.content-container{
+	height: 80vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    border: 2px solid #dedede;
+}
