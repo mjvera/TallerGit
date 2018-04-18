@@ -15,10 +15,13 @@ body{
 .title{
 	font-size: 20px;
 	font-family: roboto;
-    color: #fafafa;
+    color: #4c4c4c;
 }
 
 .title-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 80%;
     height: 100%;
     border: 2px solid #dedede;
